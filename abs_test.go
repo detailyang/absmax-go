@@ -20,7 +20,7 @@ func TestABSInt32(t *testing.T) {
 }
 
 func TestABSInt16(t *testing.T) {
-	for i := -123456; i <= 123456; i++ {
+	for i := -12345; i <= 12345; i++ {
 		require.Equal(t, int64(math.Abs(float64(i))), int64(AbsInt16(int16(i))))
 	}
 }
