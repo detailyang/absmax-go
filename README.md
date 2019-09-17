@@ -10,6 +10,6 @@
    </b>
    <br />
    <b>
-    the implementation of absolute function is from <hackers delight absolute function> which is more fast than branch compare.
+    the implementation of absolute function is from <code>hackers delight absolute function</code> which is more fast than branch compare.
    </b>
 </p>
